@@ -1,11 +1,14 @@
 # GoWeek
 Curso GoWeek da RocketSeat
 
-Funcionamento:
-- cd frontend
--- yarn install
--- yarn start
+## Funcionamento:
 
-- cd backend
--- yarn install
--- yarn start
+```sh
+$ cd frontend
+$ yarn install
+$ yarn start
+
+$ cd backend
+$ yarn install
+$ yarn start
+```
