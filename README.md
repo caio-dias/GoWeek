@@ -1,7 +1,7 @@
 # GoWeek
 Curso GoWeek da RocketSeat
 
-## Funcionamento:
+## Funcionamento Web Site:
 
 ```sh
 $ cd frontend
